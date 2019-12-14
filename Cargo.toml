@@ -1,6 +1,6 @@
 [package]
 name = "crate-root"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jason Klein <jason@jasonklein.me>"]
 edition = "2018"
 license = "MIT"
@@ -10,6 +10,6 @@ homepage = "https://github.com/jbabyhacker/crate-root"
 documentation = "https://docs.rs/crate-root"
 description = "Obtains the full path to the current crate."
 keywords = ["directory", "testing"]
-categories = ["Configuration"]
+categories = ["config"]
 
 [dependencies]
