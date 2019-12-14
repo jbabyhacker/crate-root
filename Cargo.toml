@@ -1,13 +1,13 @@
 [package]
 name = "crate-root"
-version = "0.1.2"
+version = "0.1.3"
 authors = ["Jason Klein <jason@jasonklein.me>"]
 edition = "2018"
 license = "MIT"
 readme = "README.md"
 repository = "https://github.com/jbabyhacker/crate-root"
 homepage = "https://github.com/jbabyhacker/crate-root"
-#documentation = "https://docs.rs/crate-root"
+documentation = "https://docs.rs/crate-root"
 description = "Obtains the full path to the current crate."
 keywords = ["directory", "testing"]
 categories = ["config"]
