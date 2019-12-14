@@ -1,6 +1,6 @@
 [package]
 name = "crate-root"
-version = "0.1.1"
+version = "0.1.2"
 authors = ["Jason Klein <jason@jasonklein.me>"]
 edition = "2018"
 license = "MIT"
